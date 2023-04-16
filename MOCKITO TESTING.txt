@@ -1,0 +1,18 @@
+//MOCKITO
+
+
+
+                                                  MOCKITO
+												  =======
+- Mockito is a mocking framework for unit tests written in Java.
+- It is an open source framework available at github.
+- You can use Mockito with JUnit to create and use mock objects during unit testing.
+- To start using Mockito, download the JAR file and place it in your project class.
+- Dependency:-
+  <!-- https://mvnrepository.com/artifact/org.mockito/mockito-all -->
+  <dependency>
+    <groupId>org.mockito</groupId>
+    <artifactId>mockito-all</artifactId>
+    <version>1.10.19</version>
+    <scope>test</scope>
+ </dependency>
